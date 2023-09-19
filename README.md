@@ -7,4 +7,5 @@
 	Metodo que recibe un entero y devuelve el factorial del mismo (¿lo podemos hacer también con tipos genéricos?)
 
 3 - Metodo que recibe un entero en formato decimal y devuelve un double en formato binario.
+
 4 - Metodo que recibe un double en formato binario y devuelve un entero en formato decimal.
