@@ -1,3 +1,5 @@
+package clase_2;
+
 public class Capicua {
 
     public static boolean esCapicuaNoRecursivo(int numero) {

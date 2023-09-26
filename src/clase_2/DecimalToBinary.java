@@ -1,3 +1,5 @@
+package clase_2;
+
 public class DecimalToBinary {
 
     public static double decimalToBinary(int decimal) {

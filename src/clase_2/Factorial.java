@@ -1,3 +1,5 @@
+package clase_2;
+
 public class Factorial {
 
     public static int factorial(int n) {
